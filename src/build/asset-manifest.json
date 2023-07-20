@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9523f483.css",
+    "main.js": "/static/js/main.aac91440.js",
+    "static/js/498.2aa880aa.chunk.js": "/static/js/498.2aa880aa.chunk.js",
+    "static/js/703.b9bdeffe.chunk.js": "/static/js/703.b9bdeffe.chunk.js",
+    "static/js/513.4f90bd5b.chunk.js": "/static/js/513.4f90bd5b.chunk.js",
+    "static/js/787.5b5dfee8.chunk.js": "/static/js/787.5b5dfee8.chunk.js",
+    "static/media/VDLL.jpg": "/static/media/VDLL.b274615dd0ca77317d53.jpg",
+    "static/media/ChronostratChart2022-02SpanishAmer.pdf": "/static/media/ChronostratChart2022-02SpanishAmer.ac1c1606c0be17f1ad8e.pdf",
+    "static/media/logomuseogrande.png": "/static/media/logomuseogrande.0c3508c9b34d4de633ea.png",
+    "static/media/verte.png": "/static/media/verte.1c186296ae8bbb489ddf.png",
+    "static/media/tablinumBlanco.png": "/static/media/tablinumBlanco.bdc43bfc7b3155522e04.png",
+    "static/media/dinoGif.gif": "/static/media/dinoGif.515c8f921a56bc571370.gif",
+    "static/media/reino-unido.png": "/static/media/reino-unido.b9a2ba74e5f8a55977e7.png",
+    "static/media/espana.png": "/static/media/espana.7ab20088ad372c62ab72.png",
+    "index.html": "/index.html",
+    "main.9523f483.css.map": "/static/css/main.9523f483.css.map",
+    "main.aac91440.js.map": "/static/js/main.aac91440.js.map",
+    "498.2aa880aa.chunk.js.map": "/static/js/498.2aa880aa.chunk.js.map",
+    "703.b9bdeffe.chunk.js.map": "/static/js/703.b9bdeffe.chunk.js.map",
+    "513.4f90bd5b.chunk.js.map": "/static/js/513.4f90bd5b.chunk.js.map",
+    "787.5b5dfee8.chunk.js.map": "/static/js/787.5b5dfee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9523f483.css",
+    "static/js/main.aac91440.js"
+  ]
+}
